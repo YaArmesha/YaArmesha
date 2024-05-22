@@ -16,8 +16,8 @@
 
 ### 📫 Контакты
 
-- Email: [alibekbakibaev6@gmail.com](mailto:alibekbakibaev6@gmail.com)
-- Telegram: [@PythonA](https://t.me/PythonA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alibekbakibaev6@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PythonA)
 
 ---
 
