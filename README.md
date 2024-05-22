@@ -34,11 +34,6 @@
 
 ---
 
-### 🎨 Мои проекты
-
-- [Проект 1](#)
-- [Проект 2](#)
-
 ---
 
 ### 🌱 Мои цели
@@ -47,8 +42,11 @@
 - Создать крутые проекты и поделиться ими с миром
 - Продолжать учиться и развиваться в IT
 
+### Также
+- Учился и учусь онлайн
+- Учу Godot Engine и Backend
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaArmesha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_пользователя&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaArmesha&layout=compact&theme=radical)
